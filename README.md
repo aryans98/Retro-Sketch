@@ -1,6 +1,6 @@
 # Retro-Sketch: Pixel Sketch App
 
-Create your own pixel art.
+## Create your own pixel art.
 
 - Select any colour for the pen or background.
 - Grab used colours from the canvas.
@@ -9,7 +9,7 @@ Create your own pixel art.
 - Apply shading / lightening that persists over background colour changes.
 - Create a grid size up to 60 x 60.
 
-Feature ideas to implement
+## Feature ideas to implement
 
 - Save images.
 - Export images.
